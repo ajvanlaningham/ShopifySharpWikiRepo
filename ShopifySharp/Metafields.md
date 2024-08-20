@@ -9,7 +9,7 @@ var metafield = new MetaField()
     Namespace = "myNamespace",
     Key = "myKey",
     Value = "5",
-    ValueType = "integer",
+    Type = "number_integer",
     Description = "This is a test meta field. It is an integer value."
 };
 
